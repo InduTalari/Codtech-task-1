@@ -4,6 +4,8 @@ ID:-CT08SQL832
 Domain:-SQL
 Duration:-June to August 2024
 Mentor:-Sravani Gowni
+overview of the project
+project:-LIBRARY MANAGEMENT SYSTEM
 Description:-
 A Library Management System (LMS) is a software application designed to manage and streamline the daily operations of a library. It provides a comprehensive set of tools to handle the various functions associated with running a library, ensuring efficient management of resources and services. Below is a list of features typically found in an LMS, described in detail:
 
